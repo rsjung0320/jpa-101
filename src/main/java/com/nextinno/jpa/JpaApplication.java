@@ -10,6 +10,7 @@ public class JpaApplication {
         SpringApplication.run(JpaApplication.class, args);
         // develop
         // JPA-101 branch
+        // JPA-101 Task 01
     }
 
 }
