@@ -11,6 +11,7 @@ public class JpaApplication {
         // develop
         // JPA-101 branch
         // JPA-101 Task 01
+        // JPS-101 Task 02
     }
 
 }
